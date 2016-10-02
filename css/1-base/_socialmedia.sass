@@ -1,14 +1,45 @@
 .social-media-box
 
-  .icon
+  .icon-container
+    // background: white
+    width: 50px
+    height: 50px
+    line-height: 50px
     display: inline-block
-    text-decoration: none
-    font-size: 2rem
-    margin: 0 1rem
-    color: white
-    opacity: .5
-
+    text-align: center
+    border: 2px solid rgba(white, 0)
+    border-radius: 50%
+    margin: 0 .2rem
     +transition
 
     &:hover
-      opacity: 1
+      // border-color: rgba(black, .7)
+      background: #eee
+      box-shadow: 0 2px 6px rgba(black, .3)
+      transform: scale(1.1)
+
+      .socicon-facebook
+        color: #3b5998
+      .socicon-instagram
+        color: #fb3958
+      .socicon-twitter
+        color: #00aced
+      .socicon-youtube
+        color: #bb0000
+
+
+    .icon
+      // +filter(drop-shadow(0 0 1px rgba(black, .5)))
+      // margin: 0 1rem
+      color: white
+      opacity: .5
+
+      +transition
+      &:before
+        line-height: 50px
+        vertical-align: middle
+        text-decoration: none
+        font-size: 2rem
+
+      &:hover
+        opacity: 1
