@@ -9,13 +9,23 @@ section.header
 
     line-height: 12rem
     margin: 1.5rem 0 1rem
-    color: #BBCCBD
+    color: rgba(black, .6)
+    // #BBCCBD
     opacity: .8
     cursor: default
+    +transition
+
+    &:hover
+      color: rgba(white, .5)
+      // #63C5AE
+
+    @media(max-width: 600px)
+      font-size: 6rem
 
   .social-media-box
 
     .icon
 
-      color: #BBCCBD
+      color: rgba(black, .5)
+      // #BBCCBD
       opacity: .8

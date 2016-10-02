@@ -374,7 +374,8 @@ body {
   background-image: url(../img/back.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed; }
+  background-attachment: fixed;
+  overflow-x: hidden; }
 
 section {
   text-align: center;
@@ -454,17 +455,37 @@ section.header {
     font-weight: normal;
     line-height: 12rem;
     margin: 1.5rem 0 1rem;
-    color: #BBCCBD;
+    color: rgba(0, 0, 0, 0.6);
     opacity: 0.8;
-    cursor: default; }
+    cursor: default;
+    -webkit-transition: all 0.15s ease-out 0s;
+    -moz-transition: all 0.15s ease-out 0s;
+    transition: all 0.15s ease-out 0s; }
+    section.header h1:hover {
+      color: rgba(255, 255, 255, 0.5); }
+@media(max-width: 600px) {
+  section.header h1 {
+    font-size: 6rem; } }
   section.header .social-media-box .icon {
-    color: #BBCCBD;
+    color: rgba(0, 0, 0, 0.5);
     opacity: 0.8; }
 
 section.single {
   background: rgba(255, 255, 255, 0.1); }
-  section.single iframe {
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); }
+  section.single .video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0; }
+    section.single .video iframe {
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%; }
 
 section.live .live-wrapper .concert-wrapper {
   margin: 0.5rem auto;
@@ -529,7 +550,11 @@ section.newsletter {
       color: white;
       letter-spacing: 2px;
       text-transform: uppercase; }
-
+@media(max-width: 600px) {
+  section.newsletter .signup-box {
+    width: 90%; }
+    section.newsletter .signup-box .submit {
+      width: 100%; } }
 section.contact {
   background: rgba(230, 48, 48, 0.2);
   padding: 1rem 0 0; }
