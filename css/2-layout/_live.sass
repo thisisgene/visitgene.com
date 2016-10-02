@@ -1,0 +1,43 @@
+section.live
+  .live-wrapper
+
+    .concert-wrapper
+      margin: .5rem auto
+      border: 4px solid rgba(#8fc, .5)
+      max-width: 300px
+      display: flex
+      flex-direction: row
+      justify-content: center
+      animation: glowing 3000ms ease-in-out infinite
+
+      @keyframes glowing
+        0%
+          border-color: rgba(#ff0, .8)
+        25%
+          border-color: rgba(#8af, 1)
+        50%
+          border-color: rgba(#8fc, 1)
+        75%
+          border-color: rgba(#f0f, 1)
+        100%
+          border-color: rgba(#ff0, .8)
+
+      .concert-box
+        flex-grow: 1
+        font:
+          family: 'Futura'
+          size: 1.3rem
+        padding: .5rem 1rem
+
+        &.date-box
+          background: rgba(black, .2)
+          color: #eee
+          text-align: right
+
+        &.location-box
+          background: rgba(white, .2)
+          color: #111
+          text-align: left
+
+        li
+          margin: .3rem 0

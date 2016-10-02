@@ -2,4 +2,9 @@
 @import '0-tools/bourbon/bourbon';
 @import '0-tools/fonts';
 
-@import '2-layout/home';
+@import '1-base/base';
+
+@import '2-layout/header';
+@import '2-layout/single';
+@import '2-layout/live';
+@import '2-layout/newsletter';
