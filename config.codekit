@@ -68,6 +68,26 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
+	"\/_includes\/socialmedia.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/socialmedia.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/socialmedia.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/socialmedia.jade",
+		"outputAbbreviatedPath": "\/_includes\/socialmedia.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
 	"\/css\/0-tools\/_fonts.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1357,6 +1377,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/1-base\/_base.sass",
 		"outputAbbreviatedPath": "\/css\/css\/_base.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/css\/1-base\/_socialmedia.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/1-base\/_socialmedia.sass",
+		"outputAbbreviatedPath": "\/css\/css\/_socialmedia.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
