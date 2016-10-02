@@ -376,13 +376,14 @@ body {
 
 section {
   text-align: center;
-  padding: 1rem; }
+  padding: 2rem 1rem; }
 
 h2 {
-  margin: 1rem;
+  margin: 1rem 0 2rem;
   color: white;
   font-size: 2rem;
-  font-weight: 100; }
+  font-weight: 100;
+  text-transform: uppercase; }
 
 h3 {
   color: white;
@@ -465,3 +466,32 @@ section.live .live-wrapper .concert-wrapper {
       text-align: left; }
     section.live .live-wrapper .concert-wrapper .concert-box li {
       margin: 0.3rem 0; }
+
+section.newsletter {
+  background: rgba(255, 255, 255, 0.1); }
+  section.newsletter .signup-box {
+    margin: 1rem auto;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    font-family: "Futura"; }
+    section.newsletter .signup-box .input-box {
+      display: flex;
+      flex-direction: row; }
+      section.newsletter .signup-box .input-box input {
+        width: 50%;
+        margin: 4px 2px;
+        padding: 0.8rem 0.4rem;
+        border: 2px solid #eee;
+        background: rgba(216, 216, 216, 0.3);
+        color: white;
+        letter-spacing: 1px; }
+    section.newsletter .signup-box .submit {
+      margin: 0 auto;
+      width: 396px;
+      padding: 0.8rem;
+      border: 2px solid #eee;
+      background: rgba(168, 255, 235, 0.5);
+      color: white;
+      letter-spacing: 2px;
+      text-transform: uppercase; }
