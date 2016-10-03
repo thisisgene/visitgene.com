@@ -1,6 +1,8 @@
 section.header
   background: rgba(white, .1)
-  margin-bottom: 10px
+  // margin-bottom: 10px
+  height: calc(100vh - 7rem)
+  box-sizing: border-box
   h1
     font:
       family: 'Futura'
@@ -14,7 +16,7 @@ section.header
     opacity: .8
     cursor: default
     +transition
-    // 
+    //
     // &:hover
     //   color: rgba(white, .5)
       // #63C5AE
@@ -27,13 +29,104 @@ section.header
       // #BBCCBD
       opacity: .8
 
+  .arrow-container
+    width: 250px
+    margin: 1rem auto 0
+    padding: 2rem
+    border: 4px dashed rgba(black, .3)
+    animation: arrow-wrap-pulse 1000ms ease-in-out infinite
+
+    .arrow
+
+
+      &__body
+        margin: 0 auto
+        width: 4rem
+        height: 6rem
+        // border: 2px solid black
+        background: rgba(black, .3)
+        border-bottom: 0
+        // border-top-left-radius: .2rem
+        // border-top-right-radius: .2rem
+        animation: arrow-pulse 2000ms ease-in-out infinite
+
+      &__tip
+        margin: 0 auto
+        width: 0
+        height: 0
+        border-left: 5rem solid transparent
+        border-right: 5rem solid transparent
+
+        border-top: 5rem solid rgba(black, .3)
+        // display: inline-block
+        // margin: 0 auto 1rem
+        // width: 5rem
+        // height: 5rem
+        // border-top: 2px solid rgba(black, .3)
+        animation: arrow-tip-pulse 2000ms ease-in-out infinite
+        // &--left
+        //   border-left: 2px solid rgba(black, .3)
+        //   margin-right: -2.69rem
+        //   transform: skewX(45deg)
+        // &--right
+        //   border-right: 2px solid rgba(black, .3)
+        //   margin-left: -2.69rem
+        //   transform: skewX(-45deg)
+
+    @keyframes arrow-pulse
+      0%
+        background: rgba(#ff0, .6)
+
+      25%
+        background: rgba(#8af, .6)
+
+      50%
+        background: rgba(#8fc, .6)
+
+      75%
+        background: rgba(#f0f, .6)
+
+      100%
+        background: rgba(#ff0, .6)
+
+    @keyframes arrow-tip-pulse
+      0%
+        border-top-color: rgba(#ff0, .6)
+      25%
+        border-top-color: rgba(#8af, .6)
+      50%
+        border-top-color: rgba(#8fc, .6)
+      75%
+        border-top-color: rgba(#f0f, .6)
+      100%
+        border-top-color: rgba(#ff0, .6)
+    @keyframes arrow-wrap-pulse
+      0%
+        border-color: rgba(#ff0, .6)
+      25%
+        border-color: rgba(#8af, .6)
+      50%
+        border-color: rgba(#8fc, .6)
+      75%
+        border-color: rgba(#f0f, .6)
+      100%
+        border-color: rgba(#ff0, .6)
+
   @media(max-width: 600px)
     h1
       font-size: 9rem
       line-height: 9rem
       margin: .5rem 0
 
+    .arrow-container
+      // display: none
+      width: 160px !important
+
   @media(max-width: 460px)
+    .arrow-container
+      // display: none
+      width: 160px !important
+
     h1
       font-size: 6rem
       line-height: 6rem

@@ -16,10 +16,10 @@ body
   &:after
     content: 'l o a d i n g . . .'
     +position(fixed, 0)
-    background: black
+    background: #191919
     color: white
     text-align: center
-    padding-top: 50vh
+    padding-top: calc(50vh - .5rem)
     animation: pulse 1600ms ease-in-out infinite
     // opacity: 0
     +transition(opacity, 1000ms, ease-in-out)
