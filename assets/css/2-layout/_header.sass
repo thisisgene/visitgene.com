@@ -1,17 +1,17 @@
 section.header
   background: rgba(white, .1)
   // margin-bottom: 10px
-  height: calc(100vh - 7rem)
+  height: 100vh
   box-sizing: border-box
   h1
     font:
-      family: 'Futura'
-      size: 12rem
-      weight: normal
-
+      family: 'Monofett'
+      size: 16rem
+      weight: 100
+    letter-spacing: 2px
     line-height: 12rem
-    margin: 1.5rem 0 1rem
-    color: rgba(black, .6)
+    margin: 1rem 0 1rem
+    color: rgba(turquoise, .6)
     // #BBCCBD
     opacity: .8
     cursor: default
@@ -31,23 +31,36 @@ section.header
 
   .arrow-container
     width: 250px
-    margin: 1rem auto 0
+    margin: 3.4rem auto 0
     padding: 2rem
-    border: 4px dashed rgba(black, .3)
-    animation: arrow-wrap-pulse 1000ms ease-in-out infinite
+    background: rgba(black, .2)
+    border: 1px solid rgba(black, .3)
+    border-radius: .5rem
+    animation: arrow-wrap-pulse 4000ms ease-in-out infinite
+    opacity: 0
+    +transition(opacity, 500ms)
+
+    &.loaded
+      opacity: 1
 
     .arrow
-
+      &__text
+        // color: blue
+        font:
+          family: 'Codystar'
+          size: 2.4rem
+          weight: 400
+        border: 2px dotted #faf
+        margin: 0 auto 1rem
+        // padding: 0 .1rem
+        animation: arrow-text-pulse 3000ms 300ms ease-in-out infinite
 
       &__body
         margin: 0 auto
-        width: 4rem
-        height: 6rem
-        // border: 2px solid black
+        width: 3rem
+        height: 2.5rem
         background: rgba(black, .3)
-        border-bottom: 0
-        // border-top-left-radius: .2rem
-        // border-top-right-radius: .2rem
+        border-bottom: 0px
         animation: arrow-pulse 2000ms ease-in-out infinite
 
       &__tip
@@ -73,9 +86,30 @@ section.header
         //   margin-left: -2.69rem
         //   transform: skewX(-45deg)
 
+    @keyframes arrow-text-pulse
+      0%
+        color: rgba(#ff0, 1)
+        border-color: rgba(#ff0, 1)
+
+      25%
+        color: rgba(#8af, 1)
+        border-color: rgba(#8af, 1)
+
+      50%
+        color: rgba(#8fc, 1)
+        border-color: rgba(#8fc, 1)
+
+      75%
+        color: rgba(#f0f, 1)
+        border-color: rgba(#f0f, 1)
+
+      100%
+        color: rgba(#ff0, 1)
+        border-color: rgba(#ff0, 1)
+
     @keyframes arrow-pulse
       0%
-        background: rgba(#ff0, .6)
+        background: rgba(#ff0, .4)
 
       25%
         background: rgba(#8af, .6)
@@ -87,11 +121,11 @@ section.header
         background: rgba(#f0f, .6)
 
       100%
-        background: rgba(#ff0, .6)
+        background: rgba(#ff0, .4)
 
     @keyframes arrow-tip-pulse
       0%
-        border-top-color: rgba(#ff0, .6)
+        border-top-color: rgba(#ff0, .4)
       25%
         border-top-color: rgba(#8af, .6)
       50%
@@ -99,43 +133,55 @@ section.header
       75%
         border-top-color: rgba(#f0f, .6)
       100%
-        border-top-color: rgba(#ff0, .6)
+        border-top-color: rgba(#ff0, .4)
     @keyframes arrow-wrap-pulse
       0%
         border-color: rgba(#ff0, .6)
+        background: rgba(#ff0, .1)
       25%
         border-color: rgba(#8af, .6)
+        background: rgba(#8af, .1)
       50%
         border-color: rgba(#8fc, .6)
+        background: rgba(#8fc, .1)
       75%
         border-color: rgba(#f0f, .6)
+        background: rgba(#f0f, .1)
       100%
         border-color: rgba(#ff0, .6)
+        background: rgba(#ff0, .1)
 
-  @media(max-width: 600px)
+  @media(max-width: 660px)
+    // height: calc(100vh - 8.5rem)
     h1
-      font-size: 9rem
+      font-size: 11rem
       line-height: 9rem
-      margin: .5rem 0
+      margin: 0
 
-    .arrow-container
-      // display: none
-      width: 160px !important
 
   @media(max-width: 460px)
     .arrow-container
       // display: none
-      width: 160px !important
+      width: 250px !important
 
     h1
-      font-size: 6rem
+      font-size: 8rem
       line-height: 6rem
+      margin: .5rem 0
+
+  @media(max-width: 380px)
+    .arrow-container
+      // display: none
+      width: 180px !important
+    h1
+      font-size: 7rem
+      line-height: 5rem
       margin: .5rem 0
 
   @media(max-width: 310px)
     h1
-      font-size: 5rem
-      line-height: 5rem
+      font-size: 6rem
+      line-height: 3rem
       margin: .5rem 0
 
     .social-media-box

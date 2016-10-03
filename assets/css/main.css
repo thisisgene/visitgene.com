@@ -3,7 +3,7 @@
  * 1. Change the default font family in all browsers (opinionated).
  * 2. Prevent adjustments of font size after orientation changes in IE and iOS.
  */
-@import 'https://fonts.googleapis.com/css?family=Raleway:100,300';
+@import 'https://fonts.googleapis.com/css?family=Raleway:100,300|Codystar:300,400|Quicksand:300,400,700|Monofett';
 html {
   font-family: sans-serif;
   /* 1 */
@@ -366,8 +366,9 @@ textarea {
   /* 2 */ }
 
 body {
-  font-family: "Raleway";
+  font-family: "Quicksand";
   font-size: 16px;
+  font-weight: 300;
   height: 100%;
   width: 100%;
   background-color: #111;
@@ -409,8 +410,9 @@ section {
 h2 {
   margin: 1rem 0 2rem;
   color: white;
+  font-family: "Codystar";
   font-size: 2rem;
-  font-weight: 100;
+  font-weight: 400;
   text-transform: uppercase; }
 
 h3 {
@@ -440,7 +442,7 @@ ul {
   display: inline-block;
   text-align: center;
   border: 2px solid rgba(255, 255, 255, 0);
-  border-radius: 50%;
+  border-radius: 38%;
   margin: 0 0.2rem;
   -webkit-transition: all 0.15s ease-out 0s;
   -moz-transition: all 0.15s ease-out 0s;
@@ -473,15 +475,16 @@ ul {
 
 section.header {
   background: rgba(255, 255, 255, 0.1);
-  height: calc(100vh - 7rem);
+  height: 100vh;
   box-sizing: border-box; }
   section.header h1 {
-    font-family: "Futura";
-    font-size: 12rem;
-    font-weight: normal;
+    font-family: "Monofett";
+    font-size: 16rem;
+    font-weight: 100;
+    letter-spacing: 2px;
     line-height: 12rem;
-    margin: 1.5rem 0 1rem;
-    color: rgba(0, 0, 0, 0.6);
+    margin: 1rem 0 1rem;
+    color: rgba(64, 224, 208, 0.6);
     opacity: 0.8;
     cursor: default;
     -webkit-transition: all 0.15s ease-out 0s;
@@ -492,16 +495,31 @@ section.header {
     opacity: 0.8; }
   section.header .arrow-container {
     width: 250px;
-    margin: 1rem auto 0;
+    margin: 3.4rem auto 0;
     padding: 2rem;
-    border: 4px dashed rgba(0, 0, 0, 0.3);
-    animation: arrow-wrap-pulse 1000ms ease-in-out infinite; }
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 0.5rem;
+    animation: arrow-wrap-pulse 4000ms ease-in-out infinite;
+    opacity: 0;
+    -webkit-transition: opacity, 500ms;
+    -moz-transition: opacity, 500ms;
+    transition: opacity, 500ms; }
+    section.header .arrow-container.loaded {
+      opacity: 1; }
+    section.header .arrow-container .arrow__text {
+      font-family: "Codystar";
+      font-size: 2.4rem;
+      font-weight: 400;
+      border: 2px dotted #faf;
+      margin: 0 auto 1rem;
+      animation: arrow-text-pulse 3000ms 300ms ease-in-out infinite; }
     section.header .arrow-container .arrow__body {
       margin: 0 auto;
-      width: 4rem;
-      height: 6rem;
+      width: 3rem;
+      height: 2.5rem;
       background: rgba(0, 0, 0, 0.3);
-      border-bottom: 0;
+      border-bottom: 0px;
       animation: arrow-pulse 2000ms ease-in-out infinite; }
     section.header .arrow-container .arrow__tip {
       margin: 0 auto;
@@ -511,9 +529,25 @@ section.header {
       border-right: 5rem solid transparent;
       border-top: 5rem solid rgba(0, 0, 0, 0.3);
       animation: arrow-tip-pulse 2000ms ease-in-out infinite; }
+@keyframes arrow-text-pulse {
+  0% {
+    color: yellow;
+    border-color: yellow; }
+  25% {
+    color: #88aaff;
+    border-color: #88aaff; }
+  50% {
+    color: #88ffcc;
+    border-color: #88ffcc; }
+  75% {
+    color: magenta;
+    border-color: magenta; }
+  100% {
+    color: yellow;
+    border-color: yellow; } }
 @keyframes arrow-pulse {
   0% {
-    background: rgba(255, 255, 0, 0.6); }
+    background: rgba(255, 255, 0, 0.4); }
   25% {
     background: rgba(136, 170, 255, 0.6); }
   50% {
@@ -521,10 +555,10 @@ section.header {
   75% {
     background: rgba(255, 0, 255, 0.6); }
   100% {
-    background: rgba(255, 255, 0, 0.6); } }
+    background: rgba(255, 255, 0, 0.4); } }
 @keyframes arrow-tip-pulse {
   0% {
-    border-top-color: rgba(255, 255, 0, 0.6); }
+    border-top-color: rgba(255, 255, 0, 0.4); }
   25% {
     border-top-color: rgba(136, 170, 255, 0.6); }
   50% {
@@ -532,36 +566,46 @@ section.header {
   75% {
     border-top-color: rgba(255, 0, 255, 0.6); }
   100% {
-    border-top-color: rgba(255, 255, 0, 0.6); } }
+    border-top-color: rgba(255, 255, 0, 0.4); } }
 @keyframes arrow-wrap-pulse {
   0% {
-    border-color: rgba(255, 255, 0, 0.6); }
+    border-color: rgba(255, 255, 0, 0.6);
+    background: rgba(255, 255, 0, 0.1); }
   25% {
-    border-color: rgba(136, 170, 255, 0.6); }
+    border-color: rgba(136, 170, 255, 0.6);
+    background: rgba(136, 170, 255, 0.1); }
   50% {
-    border-color: rgba(136, 255, 204, 0.6); }
+    border-color: rgba(136, 255, 204, 0.6);
+    background: rgba(136, 255, 204, 0.1); }
   75% {
-    border-color: rgba(255, 0, 255, 0.6); }
+    border-color: rgba(255, 0, 255, 0.6);
+    background: rgba(255, 0, 255, 0.1); }
   100% {
-    border-color: rgba(255, 255, 0, 0.6); } }
-@media(max-width: 600px) {
+    border-color: rgba(255, 255, 0, 0.6);
+    background: rgba(255, 255, 0, 0.1); } }
+@media(max-width: 660px) {
   section.header h1 {
-    font-size: 9rem;
+    font-size: 11rem;
     line-height: 9rem;
-    margin: 0.5rem 0; }
-  section.header .arrow-container {
-    width: 160px !important; } }
+    margin: 0; } }
 @media(max-width: 460px) {
   section.header .arrow-container {
-    width: 160px !important; }
+    width: 250px !important; }
   section.header h1 {
-    font-size: 6rem;
+    font-size: 8rem;
     line-height: 6rem;
+    margin: 0.5rem 0; } }
+@media(max-width: 380px) {
+  section.header .arrow-container {
+    width: 180px !important; }
+  section.header h1 {
+    font-size: 7rem;
+    line-height: 5rem;
     margin: 0.5rem 0; } }
 @media(max-width: 310px) {
   section.header h1 {
-    font-size: 5rem;
-    line-height: 5rem;
+    font-size: 6rem;
+    line-height: 3rem;
     margin: 0.5rem 0; }
   section.header .social-media-box .icon-container {
     margin: 1rem 0.3rem; } }
@@ -612,7 +656,7 @@ section.live .live-wrapper .concert-wrapper {
     border-color: rgba(255, 255, 0, 0.8); } }
   section.live .live-wrapper .concert-wrapper .concert-box {
     flex-grow: 1;
-    font-family: "Futura";
+    font-family: "Quicksand";
     font-size: 1.3rem;
     padding: 0.5rem 1rem; }
     section.live .live-wrapper .concert-wrapper .concert-box.date-box {
@@ -635,7 +679,7 @@ section.newsletter {
     max-width: 400px;
     display: flex;
     flex-direction: column;
-    font-family: "Futura"; }
+    font-family: "Quicksand"; }
     section.newsletter .signup-box .input-box {
       width: 100%;
       display: flex;
@@ -679,20 +723,23 @@ section.contact {
   background: rgba(230, 48, 48, 0.2);
   padding: 1rem 0 0; }
   section.contact .contact-link {
-    font-family: "Futura";
+    font-family: "Quicksand";
     font-size: 2.5rem;
     letter-spacing: 1px;
     display: block;
     margin: 1rem 0 2rem; }
   section.contact p {
-    font-family: "Futura";
+    font-family: "Quicksand";
     margin: 3rem 0 0;
     padding: 1rem;
     color: #888;
     background: rgba(0, 0, 0, 0.2); }
 @media(max-width: 600px) {
   section.contact .contact-link {
-    font-size: 1.8rem; } }
+    font-size: 1.8rem; }
+  section.contact p {
+    background: rgba(0, 0, 0, 0.4);
+    color: #bbb; } }
 @media(max-width: 400px) {
   section.contact .contact-link {
     font-size: 1.4rem;

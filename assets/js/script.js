@@ -3,6 +3,7 @@
     $('body').addClass('loaded');
     setTimeout(function(){
       $('body').addClass('loaded--go');
+      $('.arrow-container').addClass('loaded');
     }, 1000);
   });
 
