@@ -1,0 +1,1 @@
+!function($){$(window).on("load",function(){$("body").addClass("loaded"),setTimeout(function(){$("body").addClass("loaded--go")},1e3)})}(jQuery);

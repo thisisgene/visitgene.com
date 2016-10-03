@@ -88,15 +88,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/css\/0-tools\/_fonts.sass": {
+	"\/assets\/css\/0-tools\/_fonts.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/_fonts.sass",
-		"outputAbbreviatedPath": "\/css\/css\/_fonts.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/_fonts.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_fonts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -104,15 +104,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/css\/0-tools\/_normalize.scss": {
+	"\/assets\/css\/0-tools\/_normalize.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/_normalize.scss",
-		"outputAbbreviatedPath": "\/css\/css\/_normalize.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/_normalize.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_normalize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -120,15 +120,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/_bourbon-deprecated-upcoming.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/_bourbon-deprecated-upcoming.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/_bourbon-deprecated-upcoming.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/css\/_bourbon-deprecated-upcoming.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/_bourbon-deprecated-upcoming.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/css\/_bourbon-deprecated-upcoming.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -136,15 +136,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/_bourbon.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/_bourbon.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/_bourbon.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/css\/_bourbon.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/_bourbon.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/css\/_bourbon.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -152,15 +152,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_border-color.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_border-color.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_border-color.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_border-color.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_border-color.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_border-color.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -168,15 +168,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_border-radius.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_border-radius.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_border-radius.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_border-radius.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_border-radius.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_border-radius.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -184,15 +184,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_border-style.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_border-style.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_border-style.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_border-style.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_border-style.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_border-style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -200,15 +200,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_border-width.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_border-width.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_border-width.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_border-width.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_border-width.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_border-width.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -216,15 +216,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_buttons.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_buttons.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_buttons.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_buttons.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_buttons.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -232,15 +232,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_clearfix.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_clearfix.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_clearfix.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_clearfix.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_clearfix.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_clearfix.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -248,15 +248,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_ellipsis.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_ellipsis.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_ellipsis.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_ellipsis.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_ellipsis.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_ellipsis.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -264,15 +264,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_font-stacks.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_font-stacks.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_font-stacks.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_font-stacks.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_font-stacks.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_font-stacks.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -280,15 +280,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_hide-text.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_hide-text.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_hide-text.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_hide-text.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_hide-text.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_hide-text.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -296,15 +296,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_margin.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_margin.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_margin.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_margin.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_margin.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_margin.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -312,15 +312,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_padding.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_padding.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_padding.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_padding.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_padding.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_padding.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -328,15 +328,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_position.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_position.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_position.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_position.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_position.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_position.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -344,15 +344,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_prefixer.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_prefixer.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_prefixer.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_prefixer.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_prefixer.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_prefixer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -360,15 +360,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_retina-image.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_retina-image.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_retina-image.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_retina-image.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_retina-image.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_retina-image.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -376,15 +376,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_size.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_size.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_size.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_size.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_size.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_size.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -392,15 +392,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_text-inputs.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_text-inputs.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_text-inputs.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_text-inputs.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_text-inputs.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_text-inputs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -408,15 +408,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_timing-functions.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_timing-functions.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_timing-functions.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_timing-functions.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_timing-functions.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_timing-functions.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -424,15 +424,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_triangle.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_triangle.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_triangle.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_triangle.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_triangle.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_triangle.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -440,15 +440,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/addons\/_word-wrap.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/addons\/_word-wrap.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/addons\/_word-wrap.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_word-wrap.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/addons\/_word-wrap.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_word-wrap.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -456,15 +456,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_animation.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_animation.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_animation.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_animation.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_animation.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_animation.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -472,15 +472,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_appearance.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_appearance.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_appearance.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_appearance.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_appearance.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_appearance.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -488,15 +488,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_backface-visibility.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_backface-visibility.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_backface-visibility.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_backface-visibility.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_backface-visibility.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_backface-visibility.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -504,15 +504,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_background-image.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_background-image.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_background-image.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_background-image.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_background-image.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_background-image.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -520,15 +520,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_background.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_background.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_background.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_background.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_background.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_background.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -536,15 +536,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_border-image.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_border-image.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_border-image.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_border-image.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_border-image.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_border-image.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -552,15 +552,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_calc.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_calc.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_calc.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_calc.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_calc.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_calc.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -568,15 +568,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_columns.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_columns.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_columns.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_columns.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_columns.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_columns.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -584,15 +584,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_filter.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_filter.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_filter.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_filter.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_filter.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_filter.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -600,15 +600,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_flex-box.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_flex-box.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_flex-box.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_flex-box.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_flex-box.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_flex-box.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -616,15 +616,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_font-face.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_font-face.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_font-face.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_font-face.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_font-face.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_font-face.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -632,15 +632,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_font-feature-settings.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_font-feature-settings.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_font-feature-settings.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_font-feature-settings.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_font-feature-settings.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_font-feature-settings.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -648,15 +648,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_hidpi-media-query.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_hidpi-media-query.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_hidpi-media-query.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_hidpi-media-query.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_hidpi-media-query.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_hidpi-media-query.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -664,15 +664,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_hyphens.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_hyphens.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_hyphens.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_hyphens.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_hyphens.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_hyphens.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -680,15 +680,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_image-rendering.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_image-rendering.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_image-rendering.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_image-rendering.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_image-rendering.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_image-rendering.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -696,15 +696,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_keyframes.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_keyframes.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_keyframes.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_keyframes.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_keyframes.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_keyframes.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -712,15 +712,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_linear-gradient.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_linear-gradient.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_linear-gradient.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_linear-gradient.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_linear-gradient.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_linear-gradient.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -728,15 +728,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_perspective.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_perspective.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_perspective.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_perspective.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_perspective.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_perspective.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -744,15 +744,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_placeholder.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_placeholder.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_placeholder.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_placeholder.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_placeholder.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_placeholder.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -760,15 +760,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_radial-gradient.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_radial-gradient.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_radial-gradient.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_radial-gradient.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_radial-gradient.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_radial-gradient.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -776,15 +776,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_selection.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_selection.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_selection.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_selection.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_selection.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_selection.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -792,15 +792,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_text-decoration.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_text-decoration.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_text-decoration.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_text-decoration.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_text-decoration.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_text-decoration.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -808,15 +808,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_transform.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_transform.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_transform.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_transform.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_transform.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_transform.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -824,15 +824,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_transition.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_transition.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_transition.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_transition.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_transition.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_transition.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -840,15 +840,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/css3\/_user-select.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/css3\/_user-select.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css3\/_user-select.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_user-select.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css3\/_user-select.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_user-select.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -856,15 +856,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_assign-inputs.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_assign-inputs.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_assign-inputs.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_assign-inputs.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_assign-inputs.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_assign-inputs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -872,15 +872,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_contains-falsy.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_contains-falsy.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_contains-falsy.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_contains-falsy.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_contains-falsy.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_contains-falsy.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -888,15 +888,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_contains.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_contains.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_contains.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_contains.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_contains.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_contains.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -904,15 +904,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_is-length.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_is-length.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_is-length.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_is-length.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_is-length.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_is-length.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -920,15 +920,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_is-light.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_is-light.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_is-light.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_is-light.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_is-light.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_is-light.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -936,15 +936,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_is-number.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_is-number.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_is-number.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_is-number.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_is-number.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_is-number.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -952,15 +952,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_is-size.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_is-size.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_is-size.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_is-size.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_is-size.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_is-size.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -968,15 +968,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_modular-scale.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_modular-scale.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_modular-scale.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_modular-scale.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_modular-scale.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_modular-scale.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -984,15 +984,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_px-to-em.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_px-to-em.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_px-to-em.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_px-to-em.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_px-to-em.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_px-to-em.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1000,15 +1000,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_px-to-rem.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_px-to-rem.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_px-to-rem.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_px-to-rem.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_px-to-rem.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_px-to-rem.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1016,15 +1016,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_shade.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_shade.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_shade.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_shade.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_shade.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_shade.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1032,15 +1032,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_strip-units.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_strip-units.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_strip-units.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_strip-units.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_strip-units.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_strip-units.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1048,15 +1048,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_tint.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_tint.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_tint.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_tint.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_tint.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_tint.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1064,15 +1064,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_transition-property-name.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_transition-property-name.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_transition-property-name.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_transition-property-name.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_transition-property-name.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_transition-property-name.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1080,15 +1080,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/functions\/_unpack.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/functions\/_unpack.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/functions\/_unpack.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_unpack.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/functions\/_unpack.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_unpack.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1096,15 +1096,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_convert-units.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_convert-units.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_convert-units.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_convert-units.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_convert-units.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_convert-units.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1112,15 +1112,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_directional-values.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_directional-values.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_directional-values.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_directional-values.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_directional-values.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_directional-values.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1128,15 +1128,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_font-source-declaration.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_font-source-declaration.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_font-source-declaration.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_font-source-declaration.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_font-source-declaration.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_font-source-declaration.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1144,15 +1144,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_gradient-positions-parser.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_gradient-positions-parser.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_gradient-positions-parser.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_gradient-positions-parser.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_gradient-positions-parser.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_gradient-positions-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1160,15 +1160,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_linear-angle-parser.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_linear-angle-parser.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_linear-angle-parser.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_linear-angle-parser.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_linear-angle-parser.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_linear-angle-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1176,15 +1176,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_linear-gradient-parser.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_linear-gradient-parser.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_linear-gradient-parser.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_linear-gradient-parser.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_linear-gradient-parser.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_linear-gradient-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1192,15 +1192,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_linear-positions-parser.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_linear-positions-parser.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_linear-positions-parser.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_linear-positions-parser.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_linear-positions-parser.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_linear-positions-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1208,15 +1208,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_linear-side-corner-parser.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_linear-side-corner-parser.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_linear-side-corner-parser.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_linear-side-corner-parser.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_linear-side-corner-parser.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_linear-side-corner-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1224,15 +1224,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_radial-arg-parser.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_radial-arg-parser.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_radial-arg-parser.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_radial-arg-parser.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_radial-arg-parser.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_radial-arg-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1240,15 +1240,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_radial-gradient-parser.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_radial-gradient-parser.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_radial-gradient-parser.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_radial-gradient-parser.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_radial-gradient-parser.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_radial-gradient-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1256,15 +1256,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_radial-positions-parser.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_radial-positions-parser.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_radial-positions-parser.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_radial-positions-parser.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_radial-positions-parser.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_radial-positions-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1272,15 +1272,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_render-gradients.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_render-gradients.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_render-gradients.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_render-gradients.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_render-gradients.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_render-gradients.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1288,15 +1288,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_shape-size-stripper.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_shape-size-stripper.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_shape-size-stripper.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_shape-size-stripper.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_shape-size-stripper.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_shape-size-stripper.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1304,15 +1304,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/helpers\/_str-to-num.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/helpers\/_str-to-num.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/helpers\/_str-to-num.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_str-to-num.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/helpers\/_str-to-num.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_str-to-num.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1320,15 +1320,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/settings\/_asset-pipeline.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/settings\/_asset-pipeline.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/settings\/_asset-pipeline.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_asset-pipeline.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/settings\/_asset-pipeline.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_asset-pipeline.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1336,15 +1336,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/settings\/_prefixer.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/settings\/_prefixer.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/settings\/_prefixer.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_prefixer.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/settings\/_prefixer.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_prefixer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1352,15 +1352,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/0-tools\/bourbon\/settings\/_px-to-em.scss": {
+	"\/assets\/css\/0-tools\/bourbon\/settings\/_px-to-em.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/0-tools\/bourbon\/settings\/_px-to-em.scss",
-		"outputAbbreviatedPath": "\/css\/0-tools\/bourbon\/css\/_px-to-em.css",
+		"inputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/settings\/_px-to-em.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/0-tools\/bourbon\/css\/_px-to-em.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1368,15 +1368,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/1-base\/_base.sass": {
+	"\/assets\/css\/1-base\/_base.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/1-base\/_base.sass",
-		"outputAbbreviatedPath": "\/css\/css\/_base.css",
+		"inputAbbreviatedPath": "\/assets\/css\/1-base\/_base.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_base.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1384,15 +1384,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/css\/1-base\/_socialmedia.sass": {
+	"\/assets\/css\/1-base\/_socialmedia.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/1-base\/_socialmedia.sass",
-		"outputAbbreviatedPath": "\/css\/css\/_socialmedia.css",
+		"inputAbbreviatedPath": "\/assets\/css\/1-base\/_socialmedia.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_socialmedia.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1400,15 +1400,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/css\/2-layout\/_contact.sass": {
+	"\/assets\/css\/2-layout\/_contact.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/2-layout\/_contact.sass",
-		"outputAbbreviatedPath": "\/css\/css\/_contact.css",
+		"inputAbbreviatedPath": "\/assets\/css\/2-layout\/_contact.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_contact.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1416,15 +1416,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/css\/2-layout\/_header.sass": {
+	"\/assets\/css\/2-layout\/_header.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/2-layout\/_header.sass",
-		"outputAbbreviatedPath": "\/css\/css\/_header.css",
+		"inputAbbreviatedPath": "\/assets\/css\/2-layout\/_header.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_header.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1432,15 +1432,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/css\/2-layout\/_live.sass": {
+	"\/assets\/css\/2-layout\/_live.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/2-layout\/_live.sass",
-		"outputAbbreviatedPath": "\/css\/css\/_live.css",
+		"inputAbbreviatedPath": "\/assets\/css\/2-layout\/_live.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_live.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1448,15 +1448,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/css\/2-layout\/_newsletter.sass": {
+	"\/assets\/css\/2-layout\/_newsletter.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/2-layout\/_newsletter.sass",
-		"outputAbbreviatedPath": "\/css\/css\/_newsletter.css",
+		"inputAbbreviatedPath": "\/assets\/css\/2-layout\/_newsletter.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_newsletter.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1464,15 +1464,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/css\/2-layout\/_single.sass": {
+	"\/assets\/css\/2-layout\/_single.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/2-layout\/_single.sass",
-		"outputAbbreviatedPath": "\/css\/css\/_single.css",
+		"inputAbbreviatedPath": "\/assets\/css\/2-layout\/_single.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_single.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1480,24 +1480,24 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/css\/main.css": {
+	"\/assets\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/main.css",
+		"inputAbbreviatedPath": "\/assets\/css\/main.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/css\/main.scss": {
+	"\/assets\/css\/main.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/main.scss",
-		"outputAbbreviatedPath": "\/css\/main.css",
+		"inputAbbreviatedPath": "\/assets\/css\/main.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1505,60 +1505,93 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/icons\/bandcamp.png": {
+	"\/assets\/icons\/bandcamp.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 10592,
-		"inputAbbreviatedPath": "\/icons\/bandcamp.png",
-		"outputAbbreviatedPath": "\/icons\/bandcamp.png",
+		"inputAbbreviatedPath": "\/assets\/icons\/bandcamp.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/bandcamp.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/icons\/GPMLogo.png": {
+	"\/assets\/icons\/GPMLogo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 33348,
-		"inputAbbreviatedPath": "\/icons\/GPMLogo.png",
-		"outputAbbreviatedPath": "\/icons\/GPMLogo.png",
+		"inputAbbreviatedPath": "\/assets\/icons\/GPMLogo.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/GPMLogo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/icons\/iTunes.png": {
+	"\/assets\/icons\/iTunes.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2894,
-		"inputAbbreviatedPath": "\/icons\/iTunes.png",
-		"outputAbbreviatedPath": "\/icons\/iTunes.png",
+		"inputAbbreviatedPath": "\/assets\/icons\/iTunes.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/iTunes.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/icons\/spotify.png": {
+	"\/assets\/icons\/spotify.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 18263,
-		"inputAbbreviatedPath": "\/icons\/spotify.png",
-		"outputAbbreviatedPath": "\/icons\/spotify.png",
+		"inputAbbreviatedPath": "\/assets\/icons\/spotify.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/spotify.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/back.jpg": {
+	"\/assets\/img\/back.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 344105,
-		"inputAbbreviatedPath": "\/img\/back.jpg",
-		"outputAbbreviatedPath": "\/img\/back.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/back.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/back.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/assets\/js\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/min\/script-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/script-min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/script-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/script.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/script.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/script-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,

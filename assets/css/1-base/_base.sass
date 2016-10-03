@@ -1,0 +1,72 @@
+body
+  font:
+    family: 'Raleway'
+    size: 16px
+  height: 100%
+  width: 100%
+  background:
+    color: #111
+    image: url(../img/back.jpg)
+    size: cover
+    repeat: no-repeat
+    attachment: fixed
+
+  overflow-x: hidden
+
+  &:after
+    content: 'l o a d i n g . . .'
+    +position(fixed, 0)
+    background: black
+    color: white
+    text-align: center
+    padding-top: 50vh
+    animation: pulse 1600ms ease-in-out infinite
+    // opacity: 0
+    +transition(opacity, 1000ms, ease-in-out)
+
+  &.loaded:after
+    opacity: 0
+
+  &.loaded--go:after
+    display: none
+
+  @keyframes pulse
+    0%
+      transform: scale(1)
+    50%
+      transform: scale(1.1)
+    100%
+      transform: scale(1)
+
+section
+  text-align: center
+  padding: 2rem 1rem
+
+h2
+  margin: 1rem 0 2rem
+  color: white
+  font:
+    size: 2rem
+    weight: 100
+
+  text-transform: uppercase
+
+h3
+  color: white
+  font:
+    weight: 300
+  letter-spacing: 1px
+  cursor: default
+
+a
+  text-decoration: none
+  color: white
+  opacity: .7
+  +transition
+
+  &:hover
+    opacity: 1
+
+ul
+  list-style: none
+  padding: 0
