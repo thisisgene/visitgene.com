@@ -1560,6 +1560,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/back_mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 305446,
+		"inputAbbreviatedPath": "\/assets\/img\/back_mobile.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/back_mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/jquery.min.js": {
 		"fileType": 64,
 		"ignore": 0,

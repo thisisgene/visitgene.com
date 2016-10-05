@@ -21,6 +21,10 @@ section.header
     //   color: rgba(white, .5)
       // #63C5AE
 
+  .logo img
+    width: 80%
+    max-width: 600px
+
   .social-media-box
 
     .icon
@@ -33,15 +37,27 @@ section.header
     width: 250px
     margin: 3.4rem auto 0
     padding: 2rem
-    background: rgba(black, .2)
-    border: 1px solid rgba(black, .3)
+    background: rgba(turquoise, .2)
+    border: 1px solid rgba(turquoise, .3)
     border-radius: .5rem
-    animation: arrow-wrap-pulse 4000ms ease-in-out infinite
+    // animation: arrow-wrap-pulse 4000ms ease-in-out infinite
     opacity: 0
     +transition(opacity, 500ms)
 
     &.loaded
       opacity: 1
+
+
+    &:hover
+      animation: downdrop 400ms ease-in-out infinite
+
+    @keyframes downdrop
+      0%
+        transform: translateY(0)
+      50%
+        transform: translateY(.5rem)
+      100%
+        transform: translateY(0)
 
     .arrow
       &__text
