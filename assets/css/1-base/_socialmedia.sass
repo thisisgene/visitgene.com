@@ -4,29 +4,54 @@
     // background: white
     width: 50px
     height: 50px
-    line-height: 50px
+    padding: 10px
+    line-height: 40px
     display: inline-block
     text-align: center
     border: 2px solid rgba(white, 0)
-    border-radius: 38%
+    border-radius: 50%
     margin: 0 .2rem
     +transition
 
     &:hover
-      // border-color: rgba(black, .7)
-      background: #eee
-      box-shadow: 0 2px 6px rgba(black, .3)
+      .icon
+        +filter(drop-shadow(0 0 1px rgba(black, .3)))
+
+    &__fb:hover
+      background: rgba(#C797C3, .6)
+      box-shadow: -4px 9px 0px -5px rgba(#C797C3, .25), 4px -10px 0 -4px rgba(#C797C3, .2)
       transform: scale(1.1)
 
       .socicon-facebook
         color: #3b5998
+        opacity: 1
+
+    &__insta:hover
+      background: rgba(#61B0B7, .6)
+      box-shadow: 8px -2px 0px -3px rgba(#61B0B7, .2), -12px 2px 0 -4px rgba(#61B0B7, .3)
+      transform: scale(1.1)
+
       .socicon-instagram
         color: #fb3958
+        opacity: 1
+
+    &__tw:hover
+      background: rgba(#2FC76F, .5)
+      box-shadow: -4px 6px 0px -3px rgba(#2FC76F, .3), 2px -6px 0 -2px rgba(#2FC76F, .2)
+      transform: scale(1.1)
+
       .socicon-twitter
         color: #00aced
+        opacity: 1
+
+    &__yt:hover
+      background: rgba(#B6C529, .7)
+      box-shadow: 6px 8px 0px -5px rgba(#B6C529, .2), -4px -6px 0 -2px rgba(#B6C529, .3)
+      transform: scale(1.1)
+
       .socicon-youtube
         color: #bb0000
-
+        opacity: 1
 
     .icon
       // +filter(drop-shadow(0 0 1px rgba(black, .5)))
@@ -40,6 +65,3 @@
         vertical-align: middle
         text-decoration: none
         font-size: 2rem
-
-      &:hover
-        opacity: 1
